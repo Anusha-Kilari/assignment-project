@@ -1,0 +1,107 @@
+.details{
+text-align:left;
+}
+.details{
+    min-height: 100%;
+   
+
+}
+.container-one{
+    background-color: rgb(4, 13, 17);
+    min-height: 100%;
+    width: 24%;
+    justify-content: center;
+    float: left;
+    position: fixed;
+}
+
+
+.displayimage{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20%;
+    display: block;
+    margin: 55px auto;
+}
+.info a{
+    text-align:center ;
+    color:white;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Tangerine', serif;
+}
+h3{
+    color:white;
+    text-align:center ;
+    font-size:16px ;
+}
+.fa fa-phone{
+    text-align: center;
+    font-size:16px ;
+
+}
+.fa fa-envelope{
+    text-align: center;
+    font-size:16px ;
+}
+.fa fa-linkedin{
+    text-align: center;
+    font-size:16px ;
+
+}
+.main{
+    margin:16px;
+    font-size:38px;
+    text-align: center;
+    background-color: slateblue;
+    color: black;
+    text-decoration: none;
+    font-family:  serif;
+    
+}
+.aboutme{
+    padding-left: 400px;
+    font-size: 26px;
+
+}
+p{
+    font-size: 20px;
+    color:black;
+    font-family: serif;
+}
+.workexperience{
+    padding-left: 400px;
+    font-size: 26px;
+
+}
+p1{
+    font-size: 20px;
+    color:black;
+    font-family: serif;
+    
+}
+.skills{
+    padding-left: 400px;
+    font-size: 26px;
+
+}
+p2{
+    font-size: 20px;
+    color:black;
+    font-family: serif;
+    text-decoration: underline;
+}
+.education{
+    padding-left: 400px;
+    font-size: 26px;
+
+}
+.intersts{
+        padding-left: 400px;
+        font-size: 26px;
+}
+
